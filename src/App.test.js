@@ -23,7 +23,7 @@ const newsTwo = {
 
 const allNews = [newsOne, newsTwo];
 
-describe('storiesReducer', () => {
+describe('newsReducer', () => {
   test('removes news from all news', () => {
     const action = { type: 'REMOVE_NEWS', payload: newsOne };
     const state = { data: allNews, isLoading: false, isError: false };
