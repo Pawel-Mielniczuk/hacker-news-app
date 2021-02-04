@@ -1,3 +1,5 @@
+Link to project: https://my-hacker-news-app.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
